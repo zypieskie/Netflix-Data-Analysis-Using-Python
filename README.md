@@ -1,6 +1,6 @@
-# 🎬 Movie Data Analysis – Netflix Style
+# 🎬 Movie Data Analysis – Netflix 
 
-This project performs a comprehensive exploratory data analysis (EDA) on a Netflix-style movie dataset from Kaggle, focusing on genres, popularity, voting behavior, and movie release trends. The goal is to derive meaningful insights about movie trends and audience preferences.
+This project performs a comprehensive exploratory data analysis (EDA) on a Netflix movie dataset from Kaggle, focusing on genres, popularity, voting behavior, and movie release trends. The goal is to derive meaningful insights about movie trends and audience preferences.
 
 ---
 
