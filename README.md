@@ -104,14 +104,20 @@ Again, **Drama** leads with 18.5% of the `popular` vote category.
 
 ---
 
+## 🌟 Recommendations
+
+- **For Viewers**: If you enjoy popular content, start with Drama and Action films, especially those released after 2015.
+
+- **For Netflix**: Invest more in Drama and Action genres. Consider promoting less popular but highly rated niche films.
+
+- **For Analysts**: Future analysis could explore relationships between language, country of origin, or budget vs. popularity.
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
----
-
-## 📁 Project Structure
 
